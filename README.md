@@ -4,6 +4,10 @@ This repo contains all the C++ programs that are made as part of Object Oriented
 
 ___
 
+14-FEB
+------
+  1. [Type Conversion with example of time conversion](../master/typeConversion.cpp)
+
 31-JAN
 ------
   1. [Operator overloading with Complex Numbers](../master/complexOperatorOverload.cpp)

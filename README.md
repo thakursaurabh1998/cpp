@@ -3,6 +3,14 @@
 This repo contains all the C++ programs that are made as part of Object Oriented Programming subject.
 
 ___
+23-FEB
+------
+  1. [Array Pointers and examples](../master/arrayPointers.cpp)
+  1. [Pointers and their uses in classes](../master/pointersAndClasses.cpp)
+  1. [Strings with pointers](../master/stringPointers.cpp)
+  1. [this pointer(IMPORTANT)](../master/thisPointer.cpp)
+  1. [Type conversion class to class](../typeConvertClassToClass.cpp)
+  1. [Type conversion all types](../master/typeConversionEx1.cpp)
 
 14-FEB
 ------

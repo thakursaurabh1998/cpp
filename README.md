@@ -3,6 +3,12 @@
 This repo contains all the C++ programs that are made as part of Object Oriented Programming subject.
 
 ___
+7-MAR
+------
+  1. [Multiple Inheritance Example](../master/multipleInheritance.cpp)
+  1. [Hierarchichal Inheritance with example of Student object](../master/hierarchicalInheritance.cpp)
+  1. [Hybrid Inheritance with example of Results combined with Sports Class](../master/hybridInheritance.cpp)
+
 6-MAR
 ------
   1. [Single Inheritance Example](../master/singleInheritance.cpp)

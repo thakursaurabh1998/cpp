@@ -3,6 +3,11 @@
 This repo contains all the C++ programs that are made as part of Object Oriented Programming subject.
 
 ___
+13-MAR
+------
+  1. [Dynamic polymorphism using virtual functions](../master/dynamicPolymorphism.cpp)
+  1. [Virtual Functions with example of different methods](../master/virtualFuntionEx.cpp)
+
 10-MAR
 ------
   1. [Nesting of classes(Containership)](../master/nestingClass.cpp)
@@ -45,6 +50,6 @@ ___
 
 Older
 ------
-  1. [Constructors example](../master/constructor.cpp)
+  1. [Constructors example](../master/constructors.cpp)
   1. [Friend function example](../master/friend.cpp)
   1. [Complex numbers program solving addition subtraction and so on of complex numbers](../master/complex.cpp)

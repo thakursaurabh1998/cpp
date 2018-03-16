@@ -3,6 +3,11 @@
 This repo contains all the C++ programs that are made as part of Object Oriented Programming subject.
 
 ______
+16-MAR
+------
+  1. [Creating dynamic objects in a dynamic array of objects.(__Pure Dynamic Solution__)](../master/ques16-1.cpp)
+  2. [Inheritance Practice result of student and marks example](../master/ques16-2.cpp)
+
 14-MAR
 ------
   1. [Practice question for __virtual functions__(Full question written in the starting of code)](../master/ques1.cpp)

@@ -3,6 +3,11 @@
 This repo contains all the C++ programs that are made as part of Object Oriented Programming subject.
 
 ______
+19-MAR
+------
+  1. [Exception Handling in C++](../master/divisionException.cpp)
+  1. [Example of exception handling with an example of division by zero exception](../master/exceptionHandling.cpp)
+
 16-MAR
 ------
   1. [Creating dynamic objects in a dynamic array of objects.(__Pure Dynamic Solution__)](../master/ques16-1.cpp)

@@ -7,10 +7,10 @@ ______
 ------
   >FOR DOCUMENT NAME PRACTICE-HACKERRANK
   
-  1. [Question 1](../master/practiceQuestion/hrex1.cpp)
-  1. [Question 2](../master/practiceQuestion/hrex2.cpp)
-  1. [Question 3](../master/practiceQuestion/hrex3.cpp)
-  1. [Question 4](../master/practiceQuestion/hrex4.cpp)
-  1. [Question 5](../master/practiceQuestion/hrex5.cpp)
-  1. [Question 6](../master/practiceQuestion/hrex6.cpp)
-  1. [Question 7](../master/practiceQuestion/hrex7.cpp)
+  1. [Question 1](../practiceQuestion/hrex1.cpp)
+  1. [Question 2](../practiceQuestion/hrex2.cpp)
+  1. [Question 3](../practiceQuestion/hrex3.cpp)
+  1. [Question 4](../practiceQuestion/hrex4.cpp)
+  1. [Question 5](../practiceQuestion/hrex5.cpp)
+  1. [Question 6](../practiceQuestion/hrex6.cpp)
+  1. [Question 7](../practiceQuestion/hrex7.cpp)

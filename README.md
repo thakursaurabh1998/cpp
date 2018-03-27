@@ -3,6 +3,11 @@
 > This repo contains all the C++ programs that are made as part of Object Oriented Programming subject.
 
 ______
+27-MAR
+------
+  1. [Creating template class and making self vector class as an example](../master/templates.cpp)
+  1. [Bubble Sort using template functions](../master/bubbleSortTemplate.cpp)
+
 20-MAR
 ------
   1. [Checking if entered value is a double or not and performing mathematical functions on the entered number(__Exception Handling__)](../master/quesException.cpp)
@@ -28,7 +33,7 @@ ______
 13-MAR
 ------
   1. [Dynamic polymorphism using __virtual__ functions](../master/dynamicPolymorphism.cpp)
-  1. [__Virtual Functions__ with example of different methods](../master/virtualFuntionEx.cpp)
+  1. [__Virtual Functions__ with example of different methods](../master/virtualFunctionEx.cpp)
 
 10-MAR
 ------

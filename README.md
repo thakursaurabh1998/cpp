@@ -3,10 +3,17 @@
 > This repo contains all the C++ programs that are made as part of Object Oriented Programming subject.
 
 ______
+29-MAR
+------
+  1. [Application of __template__ function](../master/templateFunction.cpp)
+  1. [__Template__ function with multiple parameters](../master/templateFunctionMultipleParameters.cpp)
+  1. [__Template__ Overloading](../master/templateOverloading.cpp)
+  1. [Member function template and non type __template__ arguments application with _dynamic_ object creation example also](../master/memberFunctionTemplate.cpp)
+
 27-MAR
 ------
-  1. [Creating template class and making self vector class as an example](../master/templates.cpp)
-  1. [Bubble Sort using template functions](../master/bubbleSortTemplate.cpp)
+  1. [Creating __template__ class and making self vector class as an example](../master/templates.cpp)
+  1. [Bubble Sort using __template__ functions](../master/bubbleSortTemplate.cpp)
 
 20-MAR
 ------

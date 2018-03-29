@@ -19,22 +19,22 @@ using namespace std;
 // }
 
 
-class A
-{
-public:
-    static void myPtr();
+// class A
+// {
+// public:
+//     static void myPtr();
 
-};
+// };
 
-int main()
-{
-    // void(*ptr)() = &A::myPtr;
-    // ptr();
-    int *ptr = new int[10]();
-    for(int i=0;i<10;i++)
-    	cout << ptr[i] << endl;
-    return 0;
-}
+// int main()
+// {
+//     // void(*ptr)() = &A::myPtr;
+//     // ptr();
+//     int *ptr = new int[10]();
+//     for(int i=0;i<10;i++)
+//     	cout << ptr[i] << endl;
+//     return 0;
+// }
 
 // class A
 // {
@@ -51,3 +51,26 @@ int main()
 
 //     return 0;
 // }
+
+class test
+{int a;
+  public:
+  test()
+  {
+   a=20;
+  }
+  void display(){
+   cout<<"a="<<a;
+  }
+  virtual ~test()
+  {
+   cout<<"object t destroyed";
+  }
+};
+  
+int main()
+{
+  test t;
+  t.display();
+  return 0;
+}

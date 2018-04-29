@@ -3,11 +3,11 @@
 #include <algorithm>
 using namespace std;
 
-typedef list<int> vec;
+typedef list<int> ls;
 int main()
 {
-    vec arr;
-    vec::iterator it;
+    ls arr;
+    ls::iterator it;
     int n, num;
     cin >> n;
     for (int i = 0; i < n; i++)

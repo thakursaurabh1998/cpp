@@ -5,7 +5,7 @@
 ______
 29-APR
 ------
-  >FOR DOCUMENT NAME STL-questions
+  >FOR DOCUMENT NAME STL questions
   
   1. [Question 1](../stl/q1.cpp)
   1. [Question 2](../stl/q2.cpp)
@@ -14,3 +14,5 @@ ______
   1. [Question 5](../stl/q5.cpp)
   1. [Question 6](../stl/q6.cpp)
   1. [Question 7](../stl/q7.cpp)
+  1. [Question 8](../stl/q8.cpp)
+  

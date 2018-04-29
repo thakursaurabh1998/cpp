@@ -9,13 +9,13 @@
 ______
 29-APR
 ------
-##Standard tempelate library (STL)
+## Standard tempelate library (STL)
 
   1. [__Vectors__ in detail](../master/stlvector.cpp)
   1. [__List__ in detail](../master/stllist.cpp)
   1. [__Map__ in detail](../master/stlmap.cpp)
   1. [__Multimap__ in detail](../master/stlmultimap.cpp)
-  1. [__Dequeue__ in detail](../master/stldeque.cpp)
+  1. [__Deque__ in detail](../master/stldeque.cpp)
   1. [__Set__ in detail](../master/stlset.cpp)
   1. [__Multiset__ in detail](../master/stlmultiset.cpp)
 

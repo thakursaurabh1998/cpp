@@ -4,7 +4,6 @@
 
 [Read More about __Standard Template Library(STL)__](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
 
-
 [Read More about __Templates__](https://www.geeksforgeeks.org/templates-cpp/)
 
 ______
@@ -16,7 +15,7 @@ ______
   1. [__List__ in detail](../master/stllist.cpp)
   1. [__Map__ in detail](../master/stlmap.cpp)
   1. [__Multimap__ in detail](../master/stlmultimap.cpp)
-  1. [__Dequeue__ in detail](../master/stldequeue.cpp)
+  1. [__Dequeue__ in detail](../master/stldeque.cpp)
   1. [__Set__ in detail](../master/stlset.cpp)
   1. [__Multiset__ in detail](../master/stlmultiset.cpp)
 

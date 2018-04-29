@@ -3,9 +3,23 @@
 > This repo contains all the C++ programs that are made as part of Object Oriented Programming subject.
 
 [Read More about __Standard Template Library(STL)__](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/)
+
+
 [Read More about __Templates__](https://www.geeksforgeeks.org/templates-cpp/)
 
 ______
+29-APR
+------
+##Standard tempelate library (STL)
+
+  1. [__Vectors__ in detail](../master/stlvector.cpp)
+  1. [__List__ in detail](../master/stllist.cpp)
+  1. [__Map__ in detail](../master/stlmap.cpp)
+  1. [__Multimap__ in detail](../master/stlmultimap.cpp)
+  1. [__Dequeue__ in detail](../master/stldequeue.cpp)
+  1. [__Set__ in detail](../master/stlset.cpp)
+  1. [__Multiset__ in detail](../master/stlmultiset.cpp)
+
 4-APR
 ------
   1. [__Map__ (STL) example](../master/map.cpp)

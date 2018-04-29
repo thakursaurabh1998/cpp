@@ -4,6 +4,7 @@
 using namespace std;
 
 typedef map<string, int> phonemap;
+typedef pair<string,int> pairing;
 int main()
 {
 	string name;
@@ -18,7 +19,8 @@ int main()
 	}
 
 	phone["abc"] = 1111;
-	phone.insert(pair<string,int>("Bose", 5555));
+	phone.insert(pairing("Bose", 5555));
+	phone["hello"] = 4343;
 
 	int n = phone.size();
 	cout << n << endl;
